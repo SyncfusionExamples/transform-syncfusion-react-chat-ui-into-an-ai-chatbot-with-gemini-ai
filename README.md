@@ -1,4 +1,4 @@
-# Transform the Syncfusion React Chat UI into an ai Chatbot with Gemini AI
+# Turn Your React Chat UI into an AI-Powered Assistant with Gemini
 A quick-start React project demonstrating how to transform the Syncfusion React Chat UI into an AI-powered chatbot using Google Gemini AI. Learn to install AI packages, configure the AI module, integrate Gemini and customize the chat experience.
 
 ## Project prerequisites
