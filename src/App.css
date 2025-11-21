@@ -1,0 +1,17 @@
+@import "../node_modules/@syncfusion/ej2-base/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-inputs/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-buttons/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-popups/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-navigations/styles/material.css";
+@import "../node_modules/@syncfusion/ej2-react-interactive-chat/styles/material.css";
+
+.container {
+  height: 480px;
+  width: 450px;
+  margin-left: 400px;
+  margin-top: 50px;
+}
+
+.e-chat-ui .e-header-icon {
+  font-size: 30px;
+}
